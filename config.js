@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://www.mentimeter.com/app',
 				},
 				{
-					name: 'Stanford Encyclopedia of Phil.',
+					name: 'Stanford Encyclopedia of Philosophy',
 					link: 'https://plato.stanford.edu/',
 				},
 			],
