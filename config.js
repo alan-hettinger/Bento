@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://nx31157.your-storageshare.de/apps/deck/#/board',
+			link: 'https://nx31157.your-storageshare.de/apps/calendar',
 		},
 		{
 			id: '4',
