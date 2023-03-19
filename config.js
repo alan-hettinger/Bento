@@ -65,8 +65,8 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Tasks',
-			icon: 'check-square',
+			name: 'Calendar',
+			icon: 'calendar',
 			link: 'https://nx31157.your-storageshare.de/apps/deck/#/board',
 		},
 		{
