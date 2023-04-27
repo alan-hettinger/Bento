@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://nx31157.your-storageshare.de/',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'NixOS Search',
+					link: 'https://search.nixos.org/packages',
 				},
 			],
 		},
