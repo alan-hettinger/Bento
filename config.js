@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/home',
+			name: 'Nextcloud',
+			icon: 'server',
+			link: 'https://nx31157.your-storageshare.de/',
 		},
 		{
 			id: '5',
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://wiki.archlinux.org',
 				},
 				{
-					name: 'Nextcloud',
-					link: 'https://nx31157.your-storageshare.de/',
-				},
-				{
 					name: 'NixOS Search',
 					link: 'https://search.nixos.org/packages',
+				},
+				{
+					name: 'Nix Home-Manager Search',
+					link: 'https://mipmip.github.io/home-manager-option-search/',
 				},
 			],
 		},
